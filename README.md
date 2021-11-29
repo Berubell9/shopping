@@ -36,7 +36,7 @@
 
 - ระบบจัดการสมาชิก
 
-![This is an image](https://www.img.in.th/images/1e26c93f40acec907fde3dc195d59d36.jpg)
+![This is an image](https://www.img.in.th/images/4ee5a31eeea8ec04fade25c474a2ccb9.jpg)
 
 - ระบบจัดการประเภทสินค้า
 
